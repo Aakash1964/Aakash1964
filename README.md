@@ -1,13 +1,3 @@
-Hi Aakash this side
-🔭 I'm currently working on ... exploring new project ideas and sharpening my skills
-🌱 I'm currently learning ... Data Structures & Algorithms and diving deeper into SAP
-👯 I'm looking to collaborate on ... full-stack web projects and open source contributions
-🤔 I'm looking for help with ... system design and building production-ready applications
-💬 Ask me about ... React, full-stack development, SAP, and Python
-📫 How to reach me: ... add your email or LinkedIn URL here
-😄 Pronouns: ... He/Him
-⚡ Fun fact: ... I debug better at night 🌙
-
 # 💫 About Me:
 🔭 I'm currently working on ... exploring new project ideas and sharpening my skills<br>🌱 I'm currently learning ... Data Structures & Algorithms and diving deeper into SAP<br>👯 I'm looking to collaborate on ... full-stack web projects and open source contributions<br>🤔 I'm looking for help with ... system design and building production-ready applications<br>💬 Ask me about ... React, full-stack development, SAP, and Python<br>📫 How to reach me: ... add your email or LinkedIn URL here<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... I debug better at night 🌙
 
